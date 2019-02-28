@@ -1,0 +1,7 @@
+C:\Users\RossanPal\programs\c#\funda\Library\demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\RossanPal\programs\c#\funda\Library\demo\Demo\bin\Debug\Demo.exe
+C:\Users\RossanPal\programs\c#\funda\Library\demo\Demo\bin\Debug\Demo.pdb
+C:\Users\RossanPal\programs\c#\funda\Library\demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\RossanPal\programs\c#\funda\Library\demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\RossanPal\programs\c#\funda\Library\demo\Demo\obj\Debug\Demo.exe
+C:\Users\RossanPal\programs\c#\funda\Library\demo\Demo\obj\Debug\Demo.pdb

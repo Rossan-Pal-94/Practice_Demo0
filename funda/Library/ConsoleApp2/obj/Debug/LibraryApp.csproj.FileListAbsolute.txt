@@ -1,0 +1,15 @@
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\DataFiles\Authors.csv
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\DataFiles\Books.csv
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\DataFiles\Books.json
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\CsvHelper.dll
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\CsvHelper.xml
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\RossanPal\programs\c#\funda\Library\ConsoleApp2\obj\Debug\LibraryApp.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\RossanPal\programs\c#\funda\ConsoleColor\ConsoleColor\bin\Debug\ConsoleColor.exe.config
+C:\Users\RossanPal\programs\c#\funda\ConsoleColor\ConsoleColor\bin\Debug\ConsoleColor.exe
+C:\Users\RossanPal\programs\c#\funda\ConsoleColor\ConsoleColor\bin\Debug\ConsoleColor.pdb
+C:\Users\RossanPal\programs\c#\funda\ConsoleColor\ConsoleColor\obj\Debug\ConsoleColor.csprojAssemblyReference.cache
+C:\Users\RossanPal\programs\c#\funda\ConsoleColor\ConsoleColor\obj\Debug\ConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\RossanPal\programs\c#\funda\ConsoleColor\ConsoleColor\obj\Debug\ConsoleColor.exe
+C:\Users\RossanPal\programs\c#\funda\ConsoleColor\ConsoleColor\obj\Debug\ConsoleColor.pdb

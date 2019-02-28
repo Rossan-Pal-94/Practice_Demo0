@@ -1,0 +1,53 @@
+﻿[
+  {
+    "ISBN": 439023483,
+    "title": "Fundamentals of Wavelets",
+    "authors": [
+      {
+        "firstName": "Goswami",
+        "lastName": "Jaideva"
+      },
+      {
+        "firstName": "Sebastian",
+        "lastName": "Gutierrez"
+      }
+    ],
+    "yearOfPublishing": 1998,
+    "language": "English",
+    "pages": 230
+  },
+  {
+    "ISBN": 439554934,
+    "title": "Data Smart",
+    "authors": [
+      {
+        "firstName": "Forema",
+        "lastName": "John"
+      },
+      {
+        "firstName": "Vonnegut",
+        "lastName": "Kurt"
+      }
+    ],
+    "yearOfPublishing": 2017,
+    "language": "English",
+    "pages": 233
+  },
+  {
+    "ISBN": 316015849,
+    "title": "God Created the Integers",
+    "authors": [
+      {
+        "firstName": "Forema",
+        "lastName": "John"
+      },
+      {
+        "firstName": "Vonnegut",
+        "lastName": "Kurt"
+      }
+    ],
+    "yearOfPublishing": 2017,
+    "language": "English",
+    "pages": 233
+  }
+]
